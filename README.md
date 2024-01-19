@@ -16,4 +16,4 @@ If you want to use the complete pipeline with the face extraction from the video
 - [FFMPEG](https://www.ffmpeg.org/download.html)
 - [face_recognition](https://github.com/ageitgey/face_recognition)
 
-once you have installed all the dependencies you can run the example.py file to test the model.
+
